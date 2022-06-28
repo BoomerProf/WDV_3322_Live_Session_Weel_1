@@ -1,0 +1,16 @@
+{
+  "name": "wdv_3322_live_session_week_1",
+  "version": "1.0.0",
+  "description": "NodeJS User Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "NodeJS",
+    "Restful",
+    "API"
+  ],
+  "author": "Eric Clarke",
+  "license": "MIT"
+}
